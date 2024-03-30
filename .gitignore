@@ -1,3 +1,4 @@
 # secret
-.env
-node
+node_modules
+dist
+.vscode
